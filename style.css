@@ -1,0 +1,129 @@
+#i1
+{
+	width: 99%;
+	height: 90%;
+	margin-left:auto;
+	border-radius: 50% 10%;
+	padding: 10px;
+	background-color: gray;
+}
+.dd
+{
+	background-color: gray;
+	margin: 20px 150px;
+	border-radius: 10% 10% ;
+}
+.aa
+{
+	font-size: 40px;
+	margin: 150px;
+}
+p
+{
+	color: red;
+	font-size: 20px;
+	border: 2px solid lightblue; 
+	padding: 5px 5px 5px 5px;
+}
+h1
+{
+	color: green;
+	text-align: center;
+}
+h2
+{
+	color: blue;
+	text-align: center;
+}
+body
+{
+	background-color: black;
+	font-size: 1.5vw;
+}
+#a1
+{
+	color: green;
+	font-size: 1.3vw;
+}
+#a2
+{
+	background-color: lightblue;
+}
+.c1
+{
+	background-color: gray;
+}
+.c2
+{
+	color: pink;
+}
+.d1
+{
+	background-color: gray;
+	height: 300px;
+	width: 33%;
+	overflow: scroll;
+	float: left;
+	border: 2px solid red; 
+	border-radius: 50px 50px 50px 50px;
+}
+.d2
+{
+	background-color: white;
+	height: 300px;
+	width: 33%;
+	overflow: scroll;
+	float: left;
+	border: 2px solid red; 
+	border-radius: 50px 50px 50px 50px;
+}
+.d3
+{
+	background-color: yellow;
+	height: 300px;
+	width: 33%;
+	overflow: scroll;
+	border: 2px solid red; 
+	border-radius: 50px 50px 50px 50px;
+	
+}
+.d1 > img
+{
+	width: 100%;
+	float: right;
+	border-radius: 50% 10%;
+}
+.d2 > img
+{
+	width: 100%;
+	float: right;
+	border-radius: 50% 10%;
+}
+.d3 > img
+{
+	width: 100%;
+	float: right;
+	border-radius: 50% 10%;
+}
+body
+{
+	background-color: black; 
+}
+form
+{
+	text-align: center;
+	border-radius: 10px;
+	width: 70%;
+	margin-top: 50px;
+	margin-left: 230px;
+	background-color: gray;
+}
+h1
+{
+	color: red;
+	text-align: center;
+}
+input
+{
+	text-align: left;
+}
